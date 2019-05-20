@@ -3,7 +3,6 @@
 homeydash.com is an open-source project for wall-mounted Homey dashboards.
 This project is forked from Homey.ink and is primarily aimed at usage on an iPad or iPhone
 
-https://homeydash.com
 
 ![Homey.ink on iPad](https://raw.githubusercontent.com/daneedk/homey.ink/master/assets/devices/ipad.png)
 

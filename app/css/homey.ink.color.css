@@ -2,9 +2,12 @@
 
 body {
   font-family: Roboto, Helvetica, sans-serif;
-  background: -webkit-linear-gradient(55deg, #009785 0%, #245AA5 50%, #B800E9 100%);
+  background: url(../img/homeyback.png);
   background-attachment: fixed;
-  color: white;
+   background-repeat: auto;
+  background-size: cover;
+ color: black;
+ font-weight: 250;
 }
 
 .container-dark {
@@ -18,10 +21,12 @@ body {
 
 #info-panel {
   width: 75vw;
-  background: -webkit-linear-gradient(55deg, #009785 0%, #245AA5 50%, #B800E9 90%);
+  background: url(../img/backmsg.png);
   background-attachment: fixed;
-  border: 1px solid #009785;
-  border-radius: 6px;
+  background-repeat: auto;
+  background-size: cover;
+  border: 2px solid #048ef7;
+  border-radius: 0px;
   box-sizing: border-box;
   z-index: 99;
   opacity: 0.95;

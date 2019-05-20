@@ -42,7 +42,7 @@ body {
       font-weight: 250;
     }
     #weather-temperature:after {
-      content: "Â°";
+      content: "°";
     }
     #weather-state {
       width: 12vw;

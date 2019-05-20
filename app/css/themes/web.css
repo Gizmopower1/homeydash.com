@@ -39,9 +39,10 @@ body {
     #weather-temperature {
       font-size: 10vh;
       line-height: 10vh;
+      font-weight: 250;
     }
     #weather-temperature:after {
-      content: "°";
+      content: "Â°";
     }
     #weather-state {
       width: 12vw;
@@ -74,6 +75,7 @@ body {
   #sunrise-time, #sunset-time {
     font-size: 2.4vh;
     line-height: 2.4vh;
+    font-weight: 250;
   }
 
 #text {
@@ -86,6 +88,7 @@ body {
     font-weight: 500;
     font-size: 6vh;
     margin-top: 1vh;
+    font-weight: 250;
   }
   #text-large:after {
     font-weight: 300;
@@ -94,6 +97,7 @@ body {
   }
   #text-small {
     font-size: 3vh;
+    font-weight: 250;
   }
 
 #logo {

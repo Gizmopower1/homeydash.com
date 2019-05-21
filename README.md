@@ -4,7 +4,7 @@ homeydash is an open-source project for wall-mounted Homey dashboards.
 This project is forked from Homey.ink and is primarily aimed at usage on an Tablet, smart phone or PC
 
 
-![Homey.ink on iPad](https://hjemmefest.ddns.net/Sider/homeydash3/assets/devices/web/web.png)
+![Homey.ink on iPad](https://hjemmefest.ddns.net/Sider/homeydash3/assets/devices/web/web_en.png)
 
 
 To run this locally:

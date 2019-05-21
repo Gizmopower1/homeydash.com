@@ -21,8 +21,8 @@ body {
 }
 
 .info-message {
-  font-size: 3.4vh;
-  font-weight: 350; 
+  font-size: 5.5vh;
+  font-weight: 300; 
 }
 
 .info-date {
@@ -39,10 +39,10 @@ body {
     #weather-temperature {
       font-size: 10vh;
       line-height: 10vh;
-      font-weight: 250;
+      font-weight: 300;
     }
     #weather-temperature:after {
-      content: "Â°";
+      content: "°";
     }
     #weather-state {
       width: 12vw;
@@ -85,10 +85,9 @@ body {
   height: 20vh;
 }
   #text-large {
-    font-weight: 500;
     font-size: 6vh;
     margin-top: 1vh;
-    font-weight: 250;
+    font-weight: 300;
   }
   #text-large:after {
     font-weight: 300;
@@ -97,7 +96,7 @@ body {
   }
   #text-small {
     font-size: 3vh;
-    font-weight: 250;
+    font-weight: 300;
   }
 
 #logo {

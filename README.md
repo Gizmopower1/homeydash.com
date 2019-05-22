@@ -17,6 +17,7 @@ serve -p 5000 app
 Then visit `http://localhost:5000/?theme=web&lang=en&token=<TOKEN>`
 
 or `http://localhost:5000/?theme=iphone&lang=en&token=<TOKEN>`
+
 Themes are awailable as web, iphone and ipad
 
 Homey.ink is available in German (de), English (en), French (fr), Dutch (nl), Norwegian (nb), Swedish (sv) and Danish (da)

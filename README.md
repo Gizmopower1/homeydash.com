@@ -21,3 +21,5 @@ or `http://localhost:5000/?theme=iphone&lang=en&token=<TOKEN>`
 Homey.ink is available in German (de), English (en), French (fr), Dutch (nl), Norwegian (nb), Swedish (sv) and Danish (da)
 
 > Your token can be acquired by visiting https://homey.ink and looking in the console after logging in.
+This is done by right clicking in browser with eks Chrome, then -> inspect and hit the console tab. 
+Now you can copy your <token> token=xxxxxxxxxxxxxxxxxx

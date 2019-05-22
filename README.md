@@ -1,4 +1,4 @@
-# homeydash light blue theme
+# Homeydash V1.0.0.3 with light blue theme
 
 homeydash is an open-source project for wall-mounted Homey dashboards.
 This project is forked from daneedk/homeydash.com and is primarily aimed at usage on a tablet, smart phone or web browser

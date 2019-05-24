@@ -14,10 +14,14 @@ body {
 }
 
 body {
-  font-family: Roboto, Helvetica, sans-serif;
-  background: -webkit-linear-gradient(55deg, #009785 0%, #245AA5 50%, #B800E9 100%);
-  background-attachment: fixed;
   color: white;
+   font-family: Roboto, Helvetica, sans-serif;
+   background: url(../img/homeyback.png);
+   background-attachment: fixed;
+   background-repeat: auto;
+   background-size: cover;
+   color: #FFFFFF;
+   font-weight: 300;
 }
 
 a {
@@ -39,20 +43,22 @@ a {
   }
   
   #info-panel {
-    position: absolute;
-    width: 75vw;
+    position: absolute;  
     height: 60vh;
     left: 10vw;
     top: 10vh;
-    padding: 5vh 5vh;
-    background: -webkit-linear-gradient(55deg, #009785 0%, #245AA5 50%, #B800E9 90%);
-    background-attachment: fixed;
-    border: 1px solid #009785;
-    border-radius: 6px;
-    box-sizing: border-box; 
-    z-index: 99;
+    padding: 5vh 5vh; 
     visibility: hidden;
     overflow: auto;
+    width: 80%;
+    background: url(../img/backmsg.png);
+    background-attachment: fixed;
+    background-repeat: auto;
+    background-size: cover;
+    border: 4px solid #FFFFFF;
+    border-radius: 2px;
+    box-sizing: border-box;
+    z-index: 99;
     opacity: 0.95;
   }
     .info-message {

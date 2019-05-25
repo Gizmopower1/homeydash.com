@@ -43,7 +43,7 @@ a {
   }
   
   #info-panel {
-    position: absolute;  
+     position: absolute;  
     height: 60vh;
     left: 10vw;
     top: 10vh;
